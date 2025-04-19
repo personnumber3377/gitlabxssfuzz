@@ -1,0 +1,1 @@
+./filter/gollum_tags<blink>_spec.rb:  expect(doc.at_css('i a').to_html).to eq "<a href=\"'%2;&gt;&lt;shtml).to eq "<a href=\"'%2;&gt;;script&gt;alert(0)&lt;/scrip<thead>r(cot&gt;%22/&gt;de_lr{a&lt

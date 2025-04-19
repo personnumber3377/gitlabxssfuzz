@@ -1,0 +1,1 @@
+./filter/inline_diff_filter_spec.rb:    expect(filter(doc).to_html).to eq("START <span class=\"idiff left right addition\">&lt;script&gt;alert('I steal cookies')&lt;/script&gt;</span> END")

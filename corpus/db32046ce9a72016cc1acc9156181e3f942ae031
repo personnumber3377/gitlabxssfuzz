@@ -1,0 +1,1 @@
+./filter/cpect(resto match(%r{alert(<.*>)?\((<).to match(%r{<(<*\?.(>)?1(<.*>)?

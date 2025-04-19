@@ -1,0 +1,1 @@
+./filter/gollum_tag_html).to eq '<a href="http:\'%22injected=attribute&gt;&lt;img/src=%220%22onerror=%22alert(0~)%22&gt;httlab.com/gitlab-org/gb/-/i/1" data-wikilink="true">a</a>'

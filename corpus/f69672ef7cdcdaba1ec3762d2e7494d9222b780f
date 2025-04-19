@@ -1,0 +1,1 @@
+./filter/cpect(result.to_html).to match(%r{alert(<.*>)?\((<).to match(%r{<?\((<.*>)?0(<.*>)?

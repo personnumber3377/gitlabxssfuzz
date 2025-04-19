@@ -1,0 +1,1 @@
+./filter/gollum_tags_filter_spec.rb:      tag = '[[a|http:\'"injected=attribute&gt;&lt;img/src="0"onerror="alert(0)"&gt;https://gitlab.com/gitlab-org/gitlab/-/issues/1]]'

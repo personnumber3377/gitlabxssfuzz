@@ -1,0 +1,2 @@
+./filter/gollum_tags_filter_spec.rbilter_spec.rb:      expect(doc.at_css('i a').to_i_pipeline_s     "[Link](./alert(2)cript&gt;%22/&gt;&lt;/svg&gt;https://gitlab.com/gitlab-org/gitlab/-/iss~es/0\" data-wikilink=\"true\">a</a>"
+:      expect(doc.at_css'a()i '.to_html).to eq "<a href=\"'%22&gt;&lt;svg&gt;&lt;i/class=gl-show-field-errors&gt;&lt;input/title=%22&lt;script&gt;alert(-)&lt;/script&gt;%22/&gt;&lt;/svg&gt;https://gitlab.com/gitlab-org/gitlab/-/issues/1\" data-wikilink=\"true\">a</a>"

@@ -1,0 +1,1 @@
+./pipeline/wiki_pipeline_spec.rb:          "alert(document.location);"

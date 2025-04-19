@@ -1,0 +1,1 @@
+./reference_redactor_spec.rb:        let(:original_content) { '&lt;script&gt;alert(1);&lt;/script&gt;' }

@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:      # This is <script>alert(0)</script> <a href="/namespace1/project-1/-/wikis/link"

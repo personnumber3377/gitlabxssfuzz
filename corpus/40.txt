@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:      expect(doc.to_html).to end_with '>&lt;script&gt;alert(0)&lt;/script&gt;</a></p>'

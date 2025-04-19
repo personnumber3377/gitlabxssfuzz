@@ -1,0 +1,1 @@
+./filter/r0fgences/label_reference_filter_spec.rb:       anoup.name = "<img src=x onerror=alert(1)>"

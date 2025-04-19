@@ -1,0 +1,1 @@
+./filter/references/abstract_reference_filter_spec.rb:      expect(data_attributes[:original]).to eq('xss &amp;lt;img onerror=alert(1) src=x&amp;gt;')

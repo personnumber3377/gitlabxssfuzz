@@ -1,0 +1,1 @@
+./filter/references/abstract_reference_filter_spec.rb:      data_attributes = filter_instance.data_attributes_for('xss &lt;img onerror=alert(1) src=x&gt;', project, issue, link_content: true)

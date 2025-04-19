@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:      doc = pipeline_filter('This is &lt;script&gt;alert(0)&lt;/script&gt; [[a link|link]]', wiki: wiki)

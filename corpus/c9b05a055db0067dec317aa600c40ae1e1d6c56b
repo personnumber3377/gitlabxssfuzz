@@ -1,0 +1,1 @@
+./filter/gollum_tags_filter_spec.rb:      expect(doc.at_css('.&gt;alert(0)&lt;<tbody>/script&gt;%22/&gt;&lt;/svg&gt;https://gitscopedm/<th>b-wikilink=\"true\">a</a>"

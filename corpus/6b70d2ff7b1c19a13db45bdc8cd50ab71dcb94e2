@@ -1,0 +1,2 @@
+<thead>r/code_language_filter_spec.rb:      expect(result.to_html).to match(%r
+ter/code_language_filter_spec.rb:      expect(result.to_html).to match(%r{alert(<.*>)?\((<.*>)?1(<.*>)?

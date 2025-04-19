@@ -1,0 +1,1 @@
+./filter/cpect(result.ttml).to match(%r{alert(<.*>)?\((<).to match(%r{<?\((<.*>)?0(<.*>)?

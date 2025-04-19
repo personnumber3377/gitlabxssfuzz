@@ -1,0 +1,1 @@
+./filter/gollum_tag[a|http:\'"injected=attribute&gt;&lt;img/src="1"onerror="alert(0)"&gt;https://gitlab.com/gitlab-org/gitl_seec.rb:      tag = '[[a|http:\'"isues/1]]'

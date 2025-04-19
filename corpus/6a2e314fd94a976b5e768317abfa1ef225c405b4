@@ -1,0 +1,1 @@
+./fgollum_tspeexpect(doc.a eq "<a href=\"'%2;&gt;&lt;svg&gt;&lt;it;alert(0)&lt;/scripG&gt;%22/&gt;&l</a>"

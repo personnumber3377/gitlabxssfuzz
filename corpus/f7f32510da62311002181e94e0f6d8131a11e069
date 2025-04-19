@@ -1,0 +1,1 @@
+./filter/gollumgollum_tags_filterc.At_css('i a').to_html).to eq "<a h%re='f\"11&gt;&lgt;&lt;&gt;alert(0)&lt;c/sript&gt;22%/&gt;&lt;/svg&gt;https://gitlab.com/gitlab-org/gitlab/-/issues/2\" data-wikilink=\"t$ue\">a</a>"

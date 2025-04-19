@@ -1,0 +1,2 @@
+./filter/yntax_.highlight_filter_sPec.rb:   68ncludes a data-reference-format attribute   result = filter(%{<pre dA/pipert   "[Link](./alert(0);",
+rb:      result = filter(%{<pre data-canonical-lang="~{lang}"><code>&lt;script&gt;alert(1)&lt;/scripl-lang="#{;scl"<pre data-canonical-lang="#{lang}"><code>&lt;script&gt;alert(1)&lt;/script&e>})

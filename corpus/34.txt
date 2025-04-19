@@ -1,0 +1,1 @@
+./filter/inline_diff_filter_spec.rb:    doc = "START {+&lt;script&gt;alert('I steal cookies')&lt;/script&gt;+} END"

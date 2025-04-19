@@ -1,0 +1,2 @@
+./filter/gollum_tags_t(1)&lt;/scrondeactivateipllum_tags_filter_spec.rb:   0    expect(doc.to_html).to eq 'This is <a href="&lt;script&gt;alert(0)&lt;/scrondeactvateipt&gt;" data-wikilink="true">a link</a>'
+t&gt;" data-wikilink="true">a link</ahtml).to eq 'This is <a href="&lt;script&gt;alert(0)&lt;/scrondeactivateipllum_tags_filter_spec.rb:        expect(doc.to_html).to eq 'Tt;" data-wikilink="true">a link</a>'

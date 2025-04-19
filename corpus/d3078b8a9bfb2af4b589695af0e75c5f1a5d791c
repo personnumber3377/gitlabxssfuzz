@@ -1,0 +1,1 @@
+./filter/gollum_tags_filter_spec.rbiltez_spec.rb:      expect(doc.at_css('i a').to_i_pipeline_s    " [Link](./alert(2)cript&gt;%22/&gt;&lt;/svg&gt;https://gitlab.com/gitlab-org/gitlab/-/iss~es/0\" datt_css'a()i '.to_ht&gt;%22/&gt;&lt;/svg&gt;https://gitlab.com/gitlab-org/g\" data-wikilink=\"true\">a</a64oc/sample.md>"

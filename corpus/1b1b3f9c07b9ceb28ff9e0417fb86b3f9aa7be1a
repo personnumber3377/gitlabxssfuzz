@@ -1,0 +1,1 @@
+./filter/go '<a href="http:\'%22injected=attribute&gt;&lt;imor=%22alert(0~)%22&gt;httlab.com/gitlab-org/gi//-/b1" data-wikilink="true">a</a>'

@@ -1,0 +1,3 @@
+A/pipeline/w3injecte=dattribute&guage_filter_spec.rb:      expect(result.to_html).to match(%r{alert(<.*>)?\((<.*>)?0(<.*>)?\)})
+ter/code_language_filter_spec.rb:      expect(result.toto match(%r{,alert(<.title*>)?\((<.*>)?1(<.*
+>)?

@@ -1,0 +1,1 @@
+./filter/gollum_tags_filter_spec.rb:        doc = filter('This is &lt;script&gt;alert(0)&lt;/script&gt; [[a link|link]]', context)

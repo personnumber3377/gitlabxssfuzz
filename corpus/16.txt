@@ -1,0 +1,1 @@
+./filter/references/label_reference_filter_spec.rb:        another_group.name = "<img src=x onerror=alert(1)>"

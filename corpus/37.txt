@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:      expect(doc.at_css('a')['href']).to eq "#{wiki.wiki_base_path}/%3Cscript%3Ealert(0)%3C/script%3E"

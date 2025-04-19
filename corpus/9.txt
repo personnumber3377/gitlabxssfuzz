@@ -1,0 +1,1 @@
+./filter/autolink_filter_spec.rb:      link = 'javascript://alert(document.cookie);'

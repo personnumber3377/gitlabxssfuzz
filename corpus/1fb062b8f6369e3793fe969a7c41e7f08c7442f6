@@ -1,0 +1,2 @@
+<thead>r(code_languaeto_html).to match(%r
+t.to match(%r{alert(<.*>)?\((<.mi(short_id}<.*>)?

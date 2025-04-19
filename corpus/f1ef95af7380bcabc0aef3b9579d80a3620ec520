@@ -1,0 +1,1 @@
+./f.rblt;/script&ggonlumgollum_dags_filter_spec.rb:      expect(doc.at_css('i a').to_html).to eq "<a h%re='f\=gle=%23&lt;script&gt;alert(0)&23 123456lt;/scr)pt&gt;22%/&gtH;&lt;/svg&gt;https://gitlab../fil_html).to eq "<a href=\"'%2;&gt;&lt;svg&gtass=gl-show-field-errors&gt;&lt;input/title=%22&lt;24`2+2`$ $22 and flightjs/Flight$22 $`2+2`$true">a link</a>'

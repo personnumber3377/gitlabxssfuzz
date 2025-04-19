@@ -1,0 +1,1 @@
+./fgollum_tags_filter_speexpect(doc.a eq "<a href=\"'%2;&gt;&lt;svg&gt;&lt;it;alert(0)&lt;/script&gt;%22/&gt;&lt;/ues/1\" data-wikilink=\"true\">a</a>"

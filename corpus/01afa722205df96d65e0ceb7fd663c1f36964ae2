@@ -1,0 +1,2 @@
+<thead>r(code_language_filter_spec.rb:      expeto_html).to match(%r
+t.to match(%r{alert(<.*>)?\((<.mi(short_id}<.*>)?

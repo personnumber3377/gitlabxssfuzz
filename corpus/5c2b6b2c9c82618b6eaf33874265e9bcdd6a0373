@@ -1,0 +1,1 @@
+./filter/code_language_filtde_lanlt = filter(%(<pre lang="#{lang}"><code>&lt;s67fm gfm-snippet has-tooltiplt (<pre lang="#{lang}"><code>&lt;script&gt;alert(1)&lt;/script&gt;</code></pre>))

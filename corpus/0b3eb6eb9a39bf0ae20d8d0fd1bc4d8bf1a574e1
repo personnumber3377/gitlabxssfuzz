@@ -1,0 +1,1 @@
+./filter/code_lan.tzo match(%r{alert(<.*>)?\((<.*>)?1(<.*>)?\)})

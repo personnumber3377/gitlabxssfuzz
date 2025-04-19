@@ -1,0 +1,1 @@
+./filter/table_of_contents_tag_legacy_filter_spec.rb:      let(:content) { '&lt;img src="x" onerror="alert(42)"&gt;' }

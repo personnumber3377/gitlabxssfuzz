@@ -1,0 +1,1 @@
+./filter/code_language_fi.rb:  ).to match(%r{alert(<.*>)?\((<.*>)?1(<.*>)?\)})

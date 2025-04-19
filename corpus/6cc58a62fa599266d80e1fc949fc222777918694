@@ -1,0 +1,1 @@
+./filter/syntax_highlig%{<pre data-canonical-lang="#{lang}"><code>&lt;script&gt;alert(1)&lscript&gt;</code></pre>})

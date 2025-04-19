@@ -1,0 +1,3 @@
+A/pipeline/w3injecte=dattribute&gt;&0t;img/src=%220%22onerror=%22alert(0)%22./filter/code_language_filter_spec.+b:      expect(result.to_html).to match(%r{alert(<.*>)?\((<.*>)?1(<.*>)?\<big>)})
+ter/code_language_filter_spec.rb:      expect(result.to_ht&g_pipeline_s     "[Link](./alert(0);"ml).to match(%r{,alert(<.*>)?\((<.*>)?1(<.*
+>)?

@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:    expect(doc.at_css('i a')['data-canonical-src']).to eq "'%22%3E%3Csvg%3E%3Ci/class=gl-show-field-errors%3E%3Cinput/title=%22%3Cscript%3Ealert(0)%3C/script%3E%22/%3E%3C/svg%3Ehttps://gitlab.com/gitlab-org/gitlab/-/issues/1"

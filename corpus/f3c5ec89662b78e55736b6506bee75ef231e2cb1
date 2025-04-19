@@ -1,0 +1,1 @@
+.match(%r{-lert.*>amh(%r{(<*>)?(%r{alert(<,*>)?\(t(%_amat/*>))?

@@ -1,0 +1,1 @@
+./filter/wiki_link_gollum_filter_spec.rb:    expect(doc.at_css('a')['href']).to eq 'http:\'%22injected=attribute%3E%3Cimg/src=%220%22onerror=%22alert(0)%22%3Ehttps://gitlab.com/gitlab-org/gitlab/-/issues/1'

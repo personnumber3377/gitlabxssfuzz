@@ -1,0 +1,1 @@
+./filter/kroki_filter_spec.rb:    doc = filter(%(<a><pre data-canonical-lang='f/" onerror=alert(1) onload=alert(1) '><code data-canonical-lang="wavedrom">xss</code></pre></a>))

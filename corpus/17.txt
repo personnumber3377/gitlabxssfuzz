@@ -1,0 +1,1 @@
+./filter/references/external_issue_reference_filter_spec.rb:      expect_any_instance_of(project.external_issue_tracker.class).to receive(:issue_url) { 'javascript:alert("foo");' }

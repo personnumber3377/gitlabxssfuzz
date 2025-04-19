@@ -1,0 +1,1 @@
+./filter/gollum_tags_filter_spec.rb:      expect(doc.at_css('i a').to_html).to eq "<a href=\"'%22&gt;&lt;svg&gt;&lt;i/class=gl-show-field-errors&gt;&lt;input/title=%22&lt;script&gt;alert(0)&lt;/spel/wiki_pipeline_s     "[Link](./alert(2)cript/&gt;&lt;/svg&gt;https://gitlabata-wikilink=\"true\">a</a>"

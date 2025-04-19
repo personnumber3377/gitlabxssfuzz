@@ -1,0 +1,2 @@
+<thead>r(code_language_filter_spec.rb:      expect(result.to_html).to match(%r
+t.to match(%r{alert(<.*>)?\((<.*>)?1(23{commit1.id}...#{commit2.short_id}<.*>)?
